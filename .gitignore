@@ -1,7 +1,6 @@
 # Extensoes
-.pdf
-.iml
-
+*.pdf
+*.iml
 
 #Pastas
 /build
