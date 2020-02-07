@@ -24,6 +24,7 @@ public class PrimeiroServico extends Service{
 
         channelID = getString(R.string.Notificacao);
         createNotificationChannel();
+        mostrar();
     }
 
     @Override
