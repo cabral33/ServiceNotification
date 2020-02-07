@@ -4,6 +4,9 @@
 
 
 #Pastas
+/build
+.idea
+.gradle
 
 #Arquivos
 local.properties
